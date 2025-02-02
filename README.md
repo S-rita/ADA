@@ -1,5 +1,3 @@
-WAIT NA so confused la
-
 Practice 1: https://open.kattis.com/contests/ywxdzy
 
 Practice 2: https://leetcode.com/problem-list/divide-and-conquer/
